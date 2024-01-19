@@ -19,7 +19,7 @@ spec:
           image: public.ecr.aws/h7n6p4b0/kube:latest
           env:
             - name: MYSQL_HOST
-              value: "10.96.152.155" # put you cluster ip here.....        
+              value: "10.106.235.92" # put your cluster ip here.....        
             - name: MYSQL_PASSWORD
               value: "admin"
             - name: MYSQL_USER
